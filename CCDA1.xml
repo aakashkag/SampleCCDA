@@ -105,15 +105,15 @@
 				</languageCommunication>
 			</patient>
 			<providerOrganization>
-				<id root="2.16.840.1.113883.19"/>
-				<name>Good Health Clinic</name>
-				<telecom use="WP" value="tel:(781)555-1212"/>
+				<id root="2.16.840.1.113883.3.8.20.40.60.80.5.1"/>
+				<name>Replete Health</name>
+				<telecom use="WP" value="tel:NA"/>
 				<addr>
-					<streetAddressLine>21 North Ave</streetAddressLine>
-					<city>Burlington</city>
-					<state>MA</state>
-					<postalCode>02368</postalCode>
-					<country>USA</country>
+					<streetAddressLine>NA</streetAddressLine>
+					<city>NA</city>
+					<state>NA</state>
+					<postalCode>NA</postalCode>
+					<country>NA</country>
 				</addr>
 			</providerOrganization>
 		</patientRole>
@@ -121,7 +121,7 @@
 	<author>
 		<time value="20050329224411+0500"/>
 		<assignedAuthor>
-			<id extension="KP00017" root="2.16.840.1.113883.19.5"/>
+			<id extension="KP00017" root="2.16.840.1.113883.3.8.20.40.60.80.5.1"/>
 			<addr>
 				<streetAddressLine>21 North Ave.</streetAddressLine>
 				<city>Burlington</city>
